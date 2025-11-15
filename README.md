@@ -55,5 +55,10 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+![Exp2](https://github.com/user-attachments/assets/8527804b-4825-47f3-83ac-7c728da0e2dc)
+
 ## Output
+![ex 2 wavw](https://github.com/user-attachments/assets/15dddc2c-6bc7-410a-938e-99be07826de1)
+
 ## Result
+Thus I Have, designed, simulated and analysed Full wave rectifier (Uncontrolled) in MATLAB Simulink.
